@@ -1,0 +1,9 @@
+Demonstration file for TABARI.0.5.0B1, 10 April 2005
+<actorsfile> 	TABARI.Demo.actors
+<verbsfile> 	TABARI.Demo.verbs
+<optionsfile> TABARI.Demo.options
+<textfile> 		TABARI.Demo.text
+<eventfile> 	TABARI.Demo
+<problemfile> TABARI.Demo.prob
+<coder> DEMO
+<session 1> <coder pas> <date Mon 18 Jun 2007> <start 15:57 CDT> <end 16:01 CDT> <records 6> <changes 4> <last 0>

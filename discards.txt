@@ -1,0 +1,1587 @@
+	2	1995	#VALUE!	99	99	9999	0	AGO	Lunda Sul province			9	39	0	South	20	24	0	East			Unknown/Unclear/Other									Unidentified Gunmen						Random/Unknown/Unclear/Other	5	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+		1999	#VALUE!	99	99	9999	0	AGO		12 Miles East of Kuito	Chipeta	12	23	0	South	16	56	0	East	19	90	"Non-State, Internal, No State Sanction"				UNITA rebels											Random/Unknown/Unclear/Other	90	50-99			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	8	2000	#VALUE!		8	2000	#VALUE!	AGO			Nharea											"Non-State, Internal, No State Sanction"				Yes											Random/Unknown/Unclear/Other	7	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	Yes	No	No
+	4	2004	#VALUE!		4	2004	#VALUE!	AGO														State Perpetrator			Angolan Security Forces								Congolese diamond miners		Congolese diamond miners			No Information	No Information			Attack/Massacre	Primitive Weapons	No	No	No	Yes	No	Yes	No	No	No	Yes
+	1	1995	#VALUE!		1	1995	#VALUE!	BDI	North Of Bujumbura													State Perpetrator	Burundi Army										Hutus 					67	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		1995	#VALUE!	99	99	9999	0	BDI		Bujumbura	Choga	4	33	31	South	29	24	59	East			State Perpetrator	Soldiers Of The Tutsi-Led Army										Hutu Villagers					50	50-99			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	5	1996	#VALUE!	99	99	9999	0	BDI	Muramvya province			3	15	0	South	29	40	0	East			State Perpetrator	Tutsi dominated Burundian Army				Tutsi dominated Burundian Army						Hutu civilians					15	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	5	1996	#VALUE!	99	99	9999	0	BDI	Muramvya province			3	15	0	South	29	40	0	East			State Perpetrator	Tutsi dominated Burundian Army				Tutsi dominated Burundian Army						Hutu civilians					43	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	5	1996	#VALUE!	99	99	9999	0	BDI	Muramvya province		Mushikamo	3	22	8	South	29	41	36	East			State Perpetrator	Tutsi dominated Burundian Army				Tutsi dominated Burundian Army						Hutu civilians					1200	"1,000-9,999"			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	7	1996	#VALUE!	99	99	9999	0	BDI	Central		Shumba	3	13	38	South	29	35	28	East			State Perpetrator	Tutsi dominated Burundian Army				Tutsi dominated Burundian Army						Hutus					100	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	12	1996	#VALUE!	99	99	9999	0	BDI	Bururi province			3	51	0	South	29	38	0	East			State Perpetrator	Burundian army														Random/Unknown/Unclear/Other	75	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	4	1997	#VALUE!	99	99	9999	0	BDI	Makamba province		Kayogoro	4	10	0	South	29	45	10	East			"Non-State, Internal, No State Sanction"					Hutu rebels										civilians	100	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	4	1997	#VALUE!	99	99	9999	0	BDI	Makamba province		Kayogoro	4	10	0	South	29	45	10	East			State Perpetrator	army														civilians	300	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		2002	#VALUE!		2	2002	#VALUE!	BFA														State Perpetrator		Yes													Yes	106	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	1	2004	#VALUE!	99	99	9999	0	BGD	southeastern	Rangamati hill district	Shapmara Lake	22	38	28	North	92	11	24	East			Unknown/Unclear/Other									Unknown		"""five… tribesmen"""					5	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	Yes	No	No
+	9	1995	#VALUE!		9	1995	#VALUE!	BIH			Sanski Most	44	45	54	North	16	39	25	East			"Non-State, Internal, No State Sanction"					Serb forces							Moslems				300	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	Yes	No	No	No	Yes - forced labor
+	10	1995	#VALUE!	99	99	9999	0	BIH			Bosanski Novi	45	2	45	North	16	22	49	East			State Perpetrator	Bosnian Serb soldiers											Moslems				100	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	"Yes - forced labor, forced deportation"
+		1995	#VALUE!	99	99	9999	0	BIH	Livno-Glamoc													State Perpetrator	Bosnian Serb soldiers										Moslem Croats	Moslem Croats				6	May-24			Attack/Massacre	Heavy Weapons	No	No	Yes	No	No	Yes	No	No	No	"Yes (torture, slave labor)"
+	9	2003	#VALUE!		10	2003	#VALUE!	BOL														State Perpetrator	Yes									Yes						86	50-99	400	100-999	Attack/Massacre	Firearms	No	No	No	No	Yes	No	No	No	No	No
+
+	9	1999	#VALUE!	99	99	9999	0	BRA			Brasilia	15	46	47	South	47	55	47	West			Unknown/Unclear/Other									Yes						Yes	36	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		2003	#VALUE!			2003	#VALUE!	BRA														State Perpetrator		Yes													Yes	thousands	"1,000-9,999"			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes
+	1	2006	#VALUE!	10	2	2006	38758	CAF	northwest		Paoua	7	15	0	North	16	26	0	East			Unknown/Unclear/Other									Armed gangs						villagers	52	50-99			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	Looting
+	2	1997	#VALUE!	99	99	9999	0	CHN		Xinjiang	Yining	29	2	20	North	114	33	4	East			Unknown/Unclear/Other									Unknown/Unclear/Other	Protesters against the Chinese occupation of East Turkestan						9	May-24	200	100-999	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	7	2000	#VALUE!		9	2000	#VALUE!	CHN			Hong Kong	22	17	2	North	114	9	0	East			State Perpetrator	Chinese authorities										falun gong members					50	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	Yes	Yes	No	No	No	Torture
+	10	2002	#VALUE!	99	99	9999	0	CIV			Bouake	7	41	0	North	5	1	59	East			"Non-State, Internal, No State Sanction"				Yes						Yes				Yes		60	50-99	Dozens	50-99	Attack/Massacre	Firearms	No	No	No	No	No	Yes	No	No	Yes	No
+	2	2005	#VALUE!	99	99	9999	0	CIV			Marahoue National Park	6	50	0	North	5	35	0	West			State Perpetrator	Forest guards														Other (villagers)	13	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes (Torture)																																																										
+	2	1996	#VALUE!	99	99	9999	0	COD	eastern		Kalima	6	29	24	South	28	12	7	East			Unknown/Unclear/Other									Unknown/Unclear/Other		Rwandan priests and nuns (Roman Catholic)	Rwandan priests and nuns (Roman Catholic)				12	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	10	1996	#VALUE!	99	99	9999	0	COD	Eastern		Kamanyola	2	46	0	South	29	0	0	East			State Perpetrator	Zairean army										Rwandan males					41	25-49			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	10	1996	#VALUE!		4	1997	#VALUE!	COD	east													"Non-State, Internal, No State Sanction"					Tutsi-led Zairean rebels						Rwandan Hutu refugees				civilians	50000	"10,000+"			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		1996	#VALUE!	99	99	9999	0	COD	eastern		Goma	2	18	25	South	29	13	30	East			Unknown/Unclear/Other									Unknown/Unclear/Other		Rwandan Hutus and Zaireans					6800	"1,000-9,999"			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes - genocide
+	4	1997	#VALUE!		10	1997	#VALUE!	COD	Kivu area			2	30	0	South	28	0	0	East			State Perpetrator	Laurent Kabila's Alliance forces										Rwandan refugees					No Information	No Information			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+	9	2000	#VALUE!	99	99	9999	0	COD			Malembe											Transnational					Rwandan soldiers										Other (villagers)	41	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	11	2000	#VALUE!	99	99	9999	0	COD	Kasai-Oriental Province		Wembo-Nyama	4	14	0	South	24	26	0	East			Transnational	Rwandan soldiers									"Protesters marching on the house of the new president of the Congolese Rally for Democracy, Adolphe Onusumba"						20	May-24			Unclear/Other	Firearms	No	No	No	No	No	No	No	No	No	No
+	1	2001	#VALUE!	99	99	9999	0	COD			Kinshasa	5	34	44	South	15	50	15	East			State Perpetrator			Congolese government								Lebanese					11	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	Yes	No
+	6	2004	#VALUE!		5	2005	#VALUE!	COD	Kivu province		Walungu	2	37	42	South	28	39	57	East			"Non-State, Internal, No State Sanction"					Rwandan Hutu rebels										Other	175	100-999			Attack/Massacre	Unclear/Other	No	No	No	Yes	No	No	No	Yes	No	No
+
+	3	2005	#VALUE!	99	99	9999	0	COD	Katanga province			9	0	0	South	26	0	0	East			"Non-State, Internal, No State Sanction"				Mai mai militia											women	9	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes (Mutilation of the bodies)
+"Agence France Press, Reuters"					"30 June 2005, AFPR000020050630e16u003iq, LBA0000020050630e16u0023y, APRS000020050630e16u0011j"		BK																																														
+		Noncombatant Status Not Asserted	Noncombatant Status Not Contested						Women and children	9	May-24			Single Number Reported	Not Contested	Unclear/Other	Firearms	No Information/Unclear/Other	No Information/Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No	"Twenty-five people have been killed in inter-tribal fighting in Kasai Oriental [southern DRCongo]. The renewed violence involved the Bena Muemba, the Bena Kapuya and the Bena Nsimba [all of them tribes in Kasai Oriental Province], on the night of Friday to Saturday [21 to 22 September]. The report was filed by the administrator of the Katanda District, at some 60 km to the east of Mbuji Mayi [Chief town of Kasai Oriental]. The 25 victims included seven women and two children. They were all killed using machetes and firearms. "	Radio Okapi	Local	Administrator of Katanda district			Radio Okapi; 24 September 2007; AFP20070924950063	This event is the result of a supplemental search utilizing Open Source Center.	MJ														
+
+
+		LBA0000020090128e51s001j7 APRS000020090129e51t0018a		ELH																																																	
+	5	1997	#VALUE!		6	1997	#VALUE!	COG														Unknown/Unclear/Other									Unknown/Unclear/Other						Random/Unknown/Unclear/Other	thousands	"1,000-9,999"	many	No Information	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	10	1998	#VALUE!	99	99	9999	0	COL	Cesar province			9	20	0	North	73	30	0	West			"Non-State, Internal, No State Sanction"				Yes									Yes			22	May-24			Attack/Massacre	Primitive Weapons	No	Yes	No	No	No	No	No	No	No	No
+		1998	#VALUE!	99	99	9999	0	COL	NorthEast		Santo Domingo											State Perpetrator	Yes														Yes	17	May-24			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	28	1999	#VALUE!	99	99	9999	0	COL			Barrancabermeja	7	3	55	North	73	51	17	West			"Non-State, Internal, No State Sanction"				Yes											Yes	8	May-24	2	1-Apr	Attack/Massacre	Firearms	No	No	No	No	No	No	No	Yes	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	2	2001	#VALUE!	99	99	9999	0	COL	SouthWest	Cauca state	Purace National Park	2	14	46	North	76	25	18	West			Unknown/Unclear/Other									Yes						Yes	9	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+	7	2001	#VALUE!	99	99	9999	0	COL	NorthWest of Bogota	Antioquia state	Peque	7	1	28	North	75	54	47	West			"Non-State, Internal, No State Sanction"				Yes									Yes			11	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	9	2003	#VALUE!		9	2003	#VALUE!	COL	218 miles SouthWest of Bogota		city of Florencia	4	37	48	North	75	55	8	West	351	225	"Non-State, Internal, No State Sanction"				Yes											Yes	13	May-24	48	50-99	Attack/Massacre	Explosives	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+		2003	#VALUE!	30	9	2003	37894	COL		Barranquilla	Soledad	10	55	2	North	74	46	0	West			"Non-State, Internal, No State Sanction"				FARC - Revolutionary Armed Forces of Colombia (leftist guerrillas)						"Liberal Party Candidate for Mayor, Jose Castillo"						15	May-24			Attack/Massacre	Firearms	No	No	No	No	Yes	No	No	No	No	No
+		2003	#VALUE!	26	10	2003	37920	COL														"Non-State, Internal, No State Sanction"				Yes						Yes						23	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	Yes	No	No
+
+
+	1	2004	#VALUE!	99	99	9999	0	COL	Eastern Vichada region		El Palmarito	5	0	0	North	69	30	0	West			Unknown/Unclear/Other											Yes					25	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes
+
+
+
+
+
+
+
+
+
+
+		2004	#VALUE!	99	99	9999	0	COL			Cajamarca	4	36	0	North	74	5	0	West	150	135	State Perpetrator	Soldiers														Random/Unknown/Unclear/Other	5	May-24			Riot/Pogrom	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+Start Day	Start Month	Start Year	#VALUE!	End Day	End Month	End Year	0	Country	Region	District	Locality	Degrees	Minutes	Seconds	Direction	Degrees	Minutes	Seconds	Direction	Distance (km)	Direction	Perp State Role	Perp State Military	Perp State Police	Perp State Other	Perp Non-State Ideological	Perp Non-State Ethnic	Perp Non-State Religious	Perp Non-State Criminal	Perp Non-State Private	Perp Unknown/Unclear/Other	Victim Identity Political	Victim Identity Ethnic/National/Citizenship	Victim Identity Religious	Victim Identity Socio-Economic	Victim Identity Unarmed Combatants	Victim Identity Random/Unknown/Unclear/Other	Deaths Number	Deaths Scale	Injured Number	Injured Scale	Organization of Violence	Weapons	Food/Aid as a Weapon	Scorched Earth Tactics	Human Shields	Rape	Targeted Assassinations	Mass Detentions	Sieges/Closures	Kidnappings	Disappearances	Other Tactics
+	9	2000	#VALUE!		6	2005	#VALUE!	DEU			"Hamburg, Munich, Nuremberg, and Rostock"											Unknown/Unclear/Other									"""two cyclists riding dark-coloured bicycles and carrying black backpacks"""		"""foreign shopkeepers and operators of fast-food outlets… six Turks and a Greek"""		"""foreign shopkeepers and operators of fast-food outlets… six Turks and a Greek"""			7	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+	8	1995	#VALUE!	26	8	1995	34937	DZA		Algiers	Casbah	36	46	60	North	3	2	60	East			"Non-State, Internal, No State Sanction"						[Moslem] militants									civilians	5	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	5	1996	#VALUE!	99	99	9999	0	DZA														"Non-State, Internal, No State Sanction"						Armed Islamic Group (GIA)					French Trappist monks	French Trappist monks				7	May-24			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+	6	1996	#VALUE!	99	99	9999	0	DZA	Tlemcen province			34	40	0	North	1	25	0	West			State Perpetrator	Algerian security forces														Random/Unknown/Unclear/Other	300	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		1996	#VALUE!	99	99	9999	0	DZA		Blida	Oued Boulbane	36	33	24	North	3	3	43	East			"Non-State, Internal, No State Sanction"				Islamic Armed Group (GIA) 		Islamic Armed Group (GIA) 									Random	15	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Other (mass grave)
+
+
+	4	1997	#VALUE!	99	99	9999	0	DZA	Saida & Sidi Bel-Abbes provinces		Moulay El-Arbi											"Non-State, Internal, No State Sanction"						Moslem fundamentalists									Random/Unknown/Unclear/Other	7	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	6	1997	#VALUE!	99	99	9999	0	DZA			Bechar	31	37	0	North	2	13	0	West			"Non-State, Internal, No State Sanction"						Moslem fundamentalists									Random/Unknown/Unclear/Other	11	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	6	1997	#VALUE!	99	99	9999	0	DZA		M'Sila	Dairat Labguer	35	21	57	North	4	16	18	East			"Non-State, Internal, No State Sanction"						Moslem guerrillas									Random/Unknown/Unclear/Other	54	50-99			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	Yes	No	No
+	6	1997	#VALUE!	99	99	9999	0	DZA	M'Sila province			35	20	0	North	4	20	0	East			"Non-State, Internal, No State Sanction"						Moslem guerrillas									Random/Unknown/Unclear/Other	17	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	7	1997	#VALUE!	99	99	9999	0	DZA	Medea province		Ouzera	36	15	15	North	2	50	50	East			"Non-State, Internal, No State Sanction"						Moslem rebels									civilians	18	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	8	1997	#VALUE!	99	99	9999	0	DZA		near Djelfa	Faid El Batma	34	30	5	North	3	12	12	East			"Non-State, Internal, No State Sanction"						Moslem guerrillas									Random/Unknown/Unclear/Other	20	May-24			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	Yes	No	No
+	8	1997	#VALUE!	99	99	9999	0	DZA		Algiers	Bologhine	36	46	60	North	3	2	60	East			"Non-State, Internal, No State Sanction"						Moslem fundamentalists									Random/Unknown/Unclear/Other	19	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	8	1997	#VALUE!	99	99	9999	0	DZA														"Non-State, Internal, No State Sanction"						Moslem guerrillas									Random/Unknown/Unclear/Other	9	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	11	1997	#VALUE!	99	99	9999	0	DZA			Tlemcen	34	52	42	North	1	18	54	West			"Non-State, Internal, No State Sanction"						Moslem rebels									Random/Unknown/Unclear/Other	8	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	Yes	No	No
+	11	1997	#VALUE!	99	99	9999	0	DZA		Algiers	Bouzareah	36	46	60	North	3	2	60	East			Unknown/Unclear/Other									Unknown/Unclear/Other		Asians					6	May-24			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+
+	11	2000	#VALUE!	22	11	2000	36852	DZA			Algiers	36	46	60	North	3	2	60	East			"Non-State, Internal, No State Sanction"				Algerian rebels	Algerian rebels										Random/Unknown/Unclear/Other	18	May-24			Attack/Massacre	Firearms	No	No	No	No	Yes	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+	4	2001	#VALUE!			2001	#VALUE!	DZA	Kabylie and eastern Algeria			36	15	0	North	5	0	0	East			State Perpetrator	Security forces										Berbers					55	50-99	1800	1000-9999	Riot/Pogrom	Firearms	No	No	No	No	No	No	No	No	No	No
+
+31	6	2001	#VALUE!	99	99	9999	0	DZA			Tebessa	35	24	15	North	8	7	27	East			"Non-State, Internal, No State Sanction"				GIA		GIA									Random	6	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Reuters 02/13/2007 (LBA0000020070213e32d00188); Agence France Presse 02/13/2007 (AFPR000020070213e32d003c7)	"Even though unofficial, I based the Deaths Toll and Injured Toll on the informal report compiled by local journalists and then subtracted the official tolls for ""combatant"" deaths and injuries (2 security service members killed and 10 wounded)."	tb																																																	
+Agence France Presse 03/04/2007 (AFPR000020070304e334006pt)		tb																																																			
+
+
+
+
+
+	9	1999	#VALUE!		10	1999	#VALUE!	ESH				25	0	0	North	13	30	0	West			Transnational	Moroccan Forces										people in the Western Sahara					Hundreds	100-999	Hundreds	100-999	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	Yes	repression and torture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Reuters, Agence France Presse, Associated Press"	Local	"police, officials"			"AFP 11 Aug 00 lba0000020010821dw8b0bkk8; Reuters 29 Aug 00 afpr000020010803dw8t03ep9, lba0000020010821dw8t09sd6; AFP 01 Sep 00 afpr000020010803dw9103ip6; Reuters 21 Sep 00 afpr000020010803dw9l03t61; AFP 09 Oct 00 aprs000020010804dwa901guo; Reuters 22 Oct 00 lba0000020010822dwam03nxr; Reuters 08 Nov 00 lba0000020010822dwb802k9k; Reuters 19 Nov 00 lba0000020010822dwbj01l12; Reuters 21 Nov 00 lba0000020010822dwbl012bc; AFP 22 Nov 00 afpr000020010803dwbm04w1t; AFP 14 Dec 00 afpr000020010803dwce05985; Reuters 26 Jan 01 lba0000020010713dx1q076oq; AP 22 Feb 01 aprs000020010710dx2m01o3u; Reuters 20 Mar 01 lba0000020010713dx3k03p52; AFP 06 May 01 afpr000020010709dx5602whk; AFP 24 May 01 afpr000020010709dx5o037bn; Reuters 14 Jul 01 lba0000020010714dx7e00ayj; Reuters 21 Aug 01 lba0000020010821dx8l04zms; Associated Press 21 Mar 02 aprs00002002031dy3100nxr; Reuters 04 Aug 02 lba0000020020804dy8400vn6, lba0000020020804dy8500gom; AFP 06 Aug 02 afpr000020020806dy86005py"	"ETA apologized for one of the deaths (bus driver) it claimed responsibility for but as the group did not apologize for any of the other deaths I have not coded ""perpetrator regrets."""	JKW																																														
+
+
+
+EVENT DATE			#VALUE!				#VALUE!	EVENT LOCATION				LATITUDE				LONGITUDE				RELATIONAL LOCATION		PERPETRATORS																CASUALTIES				MODES OF VIOLENCE		RELATED TACTICS									
+	8	2008	#VALUE!		8	2008	#VALUE!	GEO	South Ossetia			42	20	0	North	44	0	0	East			State Perpetrator	Georgian Forces														Random/Unknown/Unclear/Other	1692	1000-9999	1500	1000-9999	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+	6	2000	#VALUE!	31	3	2001	36981	GIN														Multiple Perpetrators (State And Non-State)	Guinean Military								Guinean civilians						refugees	No Information	No Information			Attack/Massacre	Unclear/Other	No	No	No	Yes	No	Yes	No	Yes	Yes	torture
+	9	2000	#VALUE!	31	10	2000	36830	GIN														Transnational				insurgents from Liberia and Sierra Leone											people	600	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+		2001	#VALUE!	20	4	2003	37731	HND			state-wide											"Non-State, Internal, No State Sanction"									Yes				Yes			70	50-99			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+Associated Press Newswires	Local	"Human Rights Prosecutor, Aida Romero"			Associated Press Newswires 20 April 2003 aprs000020030420dz4k00xho	"Coded as campaign but lacks specific details to code individual incidents.  Killings are indicated as having occurred over the 2 year time span prior to the story date.  Perps are identified as police officers but account makes it clear that they are operating without state sanction and may, in fact, be acting as members of paramilitary groups - hence coded as non-state, non state sanctioned unknown/unclear/other.  Victims identified as ""youth gang members.""  "	PMP																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+	8	1995	#VALUE!		8	1995	#VALUE!	HRV	central and southern													State Perpetrator	Croatian army & police	Croatian army & police									Serb civilians					600	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+	12	1996	#VALUE!		3	1997	#VALUE!	IDN	Indonesian side of Borneo island	West Kalimantan		0	0	0	North	110	30	0	East			"Non-State, Internal, No State Sanction"					Native Dayaks						Immigrant Madurese					500	100-999			Attack/Massacre	Primitive Weapons	No	Yes	No	No	No	No	No	No	No	Yes
+
+	8	1998	#VALUE!		10	1998	#VALUE!	IDN	Java Island			7	29	30	South	110	0	16	East			Unknown/Unclear/Other									Unknown			Moslem clerics believed to practice black magic				140	100-999			Attack/Massacre	Primitive Weapons	No	No	No	No	Yes	No	No	No	No	No
+
+Reuters					22 November 1998      Reuters news       lba0000020010926dubm03sw9	"""A Reuters cameraman saw four bodies where the Ambonese-Moslem clash occurred.""  Because the majority of the report quoted the crowd as chanting anti-Ambonese slogans, the Javanese were portrayed as the perpetrators.  The report also states that some Chinese were targeted in China town because many Indonesians are jealous of their wealth."	LRP																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agence France-Presse	Local	Local police			AFP: 03/21/2000 (afpr000020010803dw3l017oy)	"Violence suggested to be an attempt to draw attention to Kashmiri situation as President Clinton made state visit to India.  A later report claims 40 killed, though initially reported as 36 without mention of any injured."	abh																																														
+Reuters	Local	Local police			Reuters: 04/10/2000 (lba0000020010821dw4a02sth)	"No identification available for perpetrators or victims other than ""tribal"" (perp) and ""non-tribal"" (victims)."	abh																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuters	Local	Local police			Reuters: 11/30/2000 (lba0000020010822dwbu004tx)		abh																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2001	#VALUE!			2003	#VALUE!	IND	Jammu-Kashmir			33	0	0	North	77	0	0	East			"Non-State, Internal, No State Sanction"				militants 								Hindu pilgrims				59	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuters	Local	Local police			Reuters: 9/24/2002 (lba0000020020924dy9o00w3v); AP: 9/24/2002 (aprs000020020924dy9o00k7y)		abh																																														
+Agence France-Presse	Local	State Military Sources			AFP: 12/15/2004 (AFPR000020041215e0cf0076d)	"Although army claims victims ""refused to surrender"" it appears they were civilians."	abh																																														
+
+Associated Press	Local	Local police			AP: 3/1/2005 (APRS000020050301e1310043c); Reuters: 3/1/2005 (LBA0000020050301e131007m9); AFP: 3/1/2005 (AFPR000020050301e131005vg)	"Re-coded based on greater details in Reuters report… Used higher AFP injury number (6 versus 3), but no other information conflicted."	abh																																														
+
+		"Agence France Presse, 28 February 2006: AFPR000020060228e22s004aa              Associated Press, 28 February 2006: APRS000020060228e22s00193                    Reuters, 28 February 2006: LBA0000020060228e22s000nt"		MJ																																																	
+
+
+	5	1997	#VALUE!	99	99	9999	0	IRQ			"Bote, Warte, Dole-Khanaqa"											Transnational	Turkish troops														civilians	7	May-24			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	12	2004	#VALUE!	99	99	9999	0	IRQ		Mosul	Sahaji	36	16	48	North	42	56	37	East			"Non-State, Internal, No State Sanction"									Unknown/Unclear/Other		Sunni construction workers		Construction workers			18	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+	2	2005	#VALUE!	99	99	9999	0	IRQ		Suwairah		32	54	0	North	45	0	0	East			Unknown/Unclear/Other									Unknown						Other (Iraqi drivers)	16	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	3	2005	#VALUE!	99	99	9999	0	IRQ			Qaim	34	22	8	North	41	5	40	East			"Non-State, Internal, No State Sanction"				Iraqi insurgent											Unclear	30	25-49			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	4	2005	#VALUE!	99	99	9999	0	IRQ														Unknown/Unclear/Other									Unclear						"""more than 50 bodies"""	50	50-99			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	Yes	No	No
+	5	2005	#VALUE!	99	99	9999	0	IRQ	Anbar province			33	0	0	North	41	45	0	East			"Non-State, Internal, No State Sanction"						Ansar al-Sunnah Army					Japanese contractor					5	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	Yes	No	No
+	5	2005	#VALUE!	99	99	9999	0	IRQ														"Non-State, Internal, No State Sanction"				Insurgents											Random/Unknown/Unclear/Other	11	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	8	2005	#VALUE!	99	99	9999	0	IRQ			Baghdad	33	20	19	North	44	23	38	East			Unknown/Unclear/Other									unclear			"""22 men, mostly Sunnis"""				22	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	Yes	No	No
+	9	2005	#VALUE!	99	99	9999	0	IRQ			Basra	30	29	39	North	47	49	9	East			Multiple Perpetrators (State And Non-State)	"""British forces"""	"""Basra police"""				"""Shiite Muslim militiamen"""					"""Iraqi civilians"""					5	May-24			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	12	2005	#VALUE!	99	99	9999	0	IRQ			Rustimiyah											Unknown/Unclear/Other									unclear						"""unidentified bodies"""	8	May-24			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+		2005	#VALUE!	99	99	9999	0	IRQ			Tal Afar	36	22	32	North	42	26	59	East			Unknown/Unclear/Other									unclear						"""bodies"""	14	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+Agence France Presse	Local	"""[IRQ] police"""			AFP: 03/06/2006 (AFPR000020060306e236003g5)		deh																																														
+
+
+
+ Agence France Presse 07/09/2006 (AFPR000020060709e27900711); Associated Press 07/09/2006 (APRS000020060709e279002e6)		tb																																																			
+
+
+
+
+
+
+
+
+
+		Associated Press 07/10/2006 (APRS000020060710e27a0026f); Reuters 07/10/2006 (LBA0000020060710e27a001zw)		tb																																																	
+
+
+International	Associated Press	Associated Press 07/11/2006 (APRS000020060711e27b001e0) Reuters 07/10/2006 (LBA0000020060711e27b00136)	I didn't find a later Associated Press report giving an updated death toll. 	tb																																																	
+
+
+
+
+
+
+
+
+	7	2006	#VALUE!	99	99	9999	0	IRQ	Salah ad Din province		"Nibaye, Balad"	34	0	59	North	44	8	47	East			Unknown/Unclear/Other									Unknown/Unclear/Other		Iraqi civilians					10	May-24			Unclear	Unclear	No	No	No	No	No	No	No	No	No	Yes
+
+
+
+International	Associated Press	Agence France Presse 08/01/2006 (AFPR000020060801e281002pg); Associated Press 08/01/2006 (APRS000020060801e281000ru); Agence France Presse 08/01/2006 (AFPR000020060801e281002pw)	"It is clear that some soldiers were killed in this event, however, the exact number of civilian casualties is in question so I used the highest estimate given for noncombatant deaths and injuries. "	tb																																																	
+
+International	Agence France Presse	Reuters 08/01/2006 (LBA0000020060801e2810007w); Agence France Presse 08/01/2006 (AFPR000020060801e281002bd)	"Even though the Agence France reported only four deaths (and indicated that one of the casualties was a police officer), I decided to code the event given the information from the Reuters report. "	tb																																																	
+		"Agence France Presse 08/02/2006 (AFPR000020060802e282003wp), Associated Press 08/02/2006 (APRS000020060802e2820021t), New York Times 08/03/2006 (NYTF000020060803e28300035)"		tb																																																	
+
+
+
+
+
+		"Agence France Presse 08/03/2006 (AFPR000020060803e283003e3), Associated Press 08/03/2006 (APRS000020060803e283001jc), Reuters 08/03/2006 (LBA0000020060803e283001bj)"		tb																																																	
+
+
+		"Reuters 08/04/2006 (LBA0000020060804e2840018u), Agence France Presse 08/04/2006 (AFPR000020060804e284002ve)"		tb																																																	
+
+
+
+
+		"Associated Press 08/10/2006 (APRS000020060810e28a000qm), Agence France Presse 08/10/2006 (AFPR000020060810e28a00363)"		tb																																																	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		"Agence France Presse 09/02/2006 (AFPR000020060902e2920048u), Associated Press 09/02/2006 (APRS000020060902e292001ms)"	The identity of the perpetrator was not definitively established.	tb																																																	
+
+International	Agence France Presse	"Reuters 09/06/2006 (LBA0000020060906e2960008f), Agence France Presse 09/06/2006 (AFPR000020060906e296002p9)"		tb																																																	
+
+
+		"Reuters 09/07/2006 (LBA0000020060907e297000os), Agence France Presse 09/07/2006 (AFPR000020060907e2970030s), Associated Press 09/07/2006 (APRS000020060907e2970011j)"		tb																																																	
+
+
+		"Agence France Presse 09/12/2006 (AFPR000020060912e29c002v2), Reuters 09/12/2006 (LBA0000020060912e29c000kh)"		tb																																																	
+
+		"Associated Press 09/13/2006 (APRS000020060913e29d001gq), Agence France Presse 09/13/2006 (AFPR000020060913e29d0032s)"		tb																																																	
+
+		"Reuters 09/13/2006 (LBA0000020060913e29d000pv), Agence France Presse 09/13/2006 (AFPR000020060913e29d0032d)"	I changed the deaths and injuries tolls to reflect the security official's comments regarding 3 police casualties and 4  wounded policemen.	tb																																																	
+
+
+
+
+
+
+
+		"Reuters 10/07/2006 (LBA0000020061007e2a70004c), Associated Press 10/07/2006 (APRS000020061007e2a700133)"		tb																																																	
+
+		"Reuters 10/10/2006 (LBA0000020061010e2aa000ud), Agence France Presse 10/10/2006 (AFPR000020061010e2aa004ex), Associated Press 10/10/2006 (APRS000020061010e2aa000bj)"		tb																																																	
+Associated Press 10/12/2006 (APRS000020061012e2ac002me)		tb																																																			
+
+		"Associated Press 10/14/2006 (APRS000020061014e2ae000i2), New York Times 10/15/2006 (NYTF000020061015e2af000b6)"		tb																																																	
+
+
+New York Times 10/15/2006 (NYTF000020061015e2af000b6)		tb																																																			
+
+
+
+
+
+
+
+
+
+		Agence France Presse 11/11/2006 (AFPR000020061111e2bb0050x); Reuters 11/11/2006 (LBA0000020061111e2bb000ca)		tb																																																	
+
+		Agence France Presse 11/11/2006 (AFPR000020061111e2bb0071h); Associated Press 11/11/2006 (APRS000020061111e2bb0020k)		tb																																																	
+
+
+
+
+		Agence France Presse 11/13/2006 (AFPR000020061113e2bd003ti); Associated Press 11/13/2006 (APRS000020061113e2bd001bd)		tb																																																	
+
+
+		Reuters 12/2/2006 (LBA0000020061202e2c2000jx); New York Times 12/3/2006 (NYTF000020061203e2c3000bc)		tb																																																	
+
+
+
+
+
+		Associated Press 12/5/2006 (APRS000020061205e2c5000uo); Reuters 12/5/2006 (LBA0000020061205e2c5000e1); Agence France Presse 12/5/2006 (AFPR000020061205e2c5004g3)		tb																																																	
+		Reuters 12/6/2006 (LBA0000020061206e2c6000vk); Associated Press 12/6/2006 (APRS000020061206e2c6001gt)		tb																																																	
+
+		Reuters 12/9/2006 (LBA0000020061209e2c90005e); Associated Press 12/9/2006 (APRS000020061209e2c90015q)		tb																																																	
+
+
+		Reuters 12/10/2006 (LBA0000020061210e2ca00066); Agence France Presse 12/10/2006 (AFPR000020061210e2ca003mn)		tb																																																	
+
+
+
+		Associated Press 12/12/2006 (APRS000020061212e2cc000jx); Agence France Presse 12/12/2006 (AFPR000020061212e2cc004o0)		tb																																																	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuters 01/08/2007 (LBA0000020070108e318000ci)		tb																																																			
+Reuters 01/10/2007 (LBA0000020070110e31a001vl)		tb																																																			
+
+		Reuters 01/16/2007 (LBA0000020070116e31g0023c); Associated Press 01/16/2007 (APRS000020070116e31g0020v)		tb																																																	
+
+
+		Agence France Presse 01/18/2007 (AFPR000020070118e31i003h6); Associated Press 01/18/2007 (APRS000020070118e31i000ve)		tb																																																	
+
+
+
+
+
+		Reuters 02/01/2007 (LBA0000020070201e321001vb); Agence France Presse 02/01/2007 (AFPR000020070201e3210041j)		tb																																																	
+
+		Reuters 02/03/2007 (LBA0000020070203e323000a3); Agence France Presse 02/03/2007 (AFPR000020070203e32300879)		tb																																																	
+
+
+		Agence France Presse 02/05/2007 (AFPR000020070205e325003nb); Reuters 02/05/2007 (LBA0000020070205e325000zp)		tb																																																	
+
+
+		Associated Press 02/08/2007 (APRS000020070208e32800115); Reuters 02/08/2007 (LBA0000020070208e328000wh)		tb																																																	
+
+Associated Press 02/09/2007 (APRS000020070209e3290013u)		tb																																																			
+
+Reuters 02/12/2007 (LBA0000020070212e32c000qh)		tb																																																			
+
+
+
+New York Times 03/02/2007(NYTF000020070302e3320002q)		tb																																																			
+Agence France Presse 03/03/2007 (AFPR000020070303e333007ft)		tb																																																			
+
+Reuters 03/05/2007 (LBA0000020070305e335000s4)		tb																																																			
+
+
+		Agence France Presse 03/07/2007 (AFPR000020070307e337002pb); New York Times 03/07/2007 (NYTF000020070307e33700041)		tb																																																	
+
+		Associated Press 03/07/2007 (APRS000020070307e3370010v); Reuters 03/07/2007 (LBA0000020070307e337000c3)		tb																																																	
+
+
+
+
+
+
+Associated Press 03/11/2007 (APRS000020070311e33b000ia)		tb																																																			
+
+
+
+
+
+
+
+
+
+Reuters 04/08/2007 (LBA0000020070408e3480004j)		tb																																																			
+
+
+
+
+
+
+
+
+Associated Press 05/04/2007 (APRS000020070504e354003it)		tb																																																			
+Reuters 05/05/2007 (LBA0000020070505e355000cv)		tb																																																			
+
+		Associated Press 05/06/2007 (APRS000020070506e356000uu); Reuters 05/06/2007 (LBA0000020070506e3560006e)		tb																																																	
+
+
+Associated Press 05/08/2007 (APRS000020070508e358000ye)		tb																																																			
+
+
+		Reuters 05/09/2007 (LBA0000020070509e359000cv); Associated Press 05/09/2007 (APRS000020070509e3590002m)		tb																																																	
+
+
+
+
+
+
+
+
+
+
+
+		Reuters 06/05/2007 (LBA0000020070605e365001hq); New York Times 06/06/2007 (NYTF000020070606e3660003l); Associated Press 06/05/2007 (APRS000020070605e3650002f)		tb																																																	
+
+
+Reuters 06/08/2007 (LBA0000020070608e3680009v)		tb																																																			
+
+
+
+
+		Reuters 06/20/2007 (LBA0000020070620e36k000w5); New York Times 06/20/2007 (NYTF000020070620e36k0003o)		tb																																																	
+
+
+
+
+
+
+
+Reuters 07/11/2007 (LBA0000020070711e37b001jn)		tb																																																			
+
+
+
+
+
+
+
+
+
+
+
+
+
+		New York Times 15 August 2007 (NYTF000020070815e38f0004q); Associated Press 16 August 2007 (APRS000020070816e38g009nf)		tb																																																	
+
+
+
+
+
+
+Reuters 5 September 2007 (LBA0000020070905e395000a9)	Casualty reports differed sharply ranging from 13 injuries (hospital official) to 11 deaths with 23 injuries (Sadr City police). It is unclear whether the Sadr City police toll was a combined toll from several attacks.	tb																																																			
+Reuters 8 September 2007 (LBA0000020070908e39800080)		tb																																																			
+		Associated Press 08 September 2007 (APRS000020070908e3980013d); Reuters 08 September 2007 (LBA0000020070908e398000h3)		tb																																																	
+
+
+
+		Reuters 15 September 2007 (LBA0000020070915e39f000c6); Associated Press 15 September 2007 (APRS000020070915e39f001t8)		tb																																																	
+
+
+
+
+
+
+
+
+
+
+
+Associated Press 1 January 2008 (APRS000020080101e411000xm); Reuters 2 January 2008 (LBA0000020080102e412000h6)		tb																																																			
+
+
+
+
+		Reuters 7 January 2008 (LBA0000020080107e417000j8); Associated Press 7 January 2008 (APRS000020080107e4170004n)	"The articles mentioned the targeting of neighborhood volunteers, but did not specify how many volunteers (presumably classified as combatants) were among those killed. "	tb																																																	
+
+Associated Press 02/01/2008 (APRS000020080201e421002k1); Reuters 02/02/2008 (LBA0000020080202e4220006o)	"While the attacks appear to be coordinated by the same perpetrator, each bombing resulted in more than 5 noncombatant casualties, so I decided to code them as separate incidents. "	tb																																																			
+
+Associated Press 3 March 2008 (APRS000020080303e433000gr)		tb																																																			
+Associated Press 6 March 2008 (APRS000020080306e436002c3)		tb																																																			
+
+Associated Press 3 April 2008 (APRS000020080403e443000po)		tb																																																			
+
+
+
+
+
+
+
+
+
+Associated Press 1 May 2008 (APRS000020080501e451001hc)		tb																																																			
+Reuters 10 May 2008 (LBA0000020080510e45a00060)		tb																																																			
+
+Reuters 04 June 2008 (LBA0000020080604e4640015c)		tb																																																			
+
+
+
+"The Associated Press, Agence France Presse, Reuters"	Local	Police			The Associated Press 11/08/2008: APRS000020081108e4b8001uz         Agence France Presse 11/08/2008: AFPR000020081108e4b8006en               Reuters 11/08/2008: LBA0000020081108e4b80009b		ELH																																														
+
+
+
+
+
+
+		AP :                                        APRS000020090429e54t001eq																																																			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1	1995	#VALUE!	99	99	9999	0	ISR	central		Netanya	32	20	56	North	34	53	13	East			"Non-State, Internal, No State Sanction"						Islamic Jihad					Israelis					21	May-24			Attack/Massacre	Suicide Bombing	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agence France Presse 07/12/2006 (AFPR000020060712e27c003jv); Agence France Presse 07/12/2006 (AFPR000020060712e27c003kk)		tb																																																			
+
+
+
+
+
+
+
+		"Associated Press 08/03/2006 (APRS000020060803e283001qs), Agence France Presse 08/03/2006 (AFPR000020060803e283003is)"		tb																																																	
+
+Reuters 08/04/2006 (LBA0000020060804e284001tk)		tb																																																			
+
+
+
+
+
+
+
+
+		Associated Press 11/08/2006 (APRS000020061108e2b8002ri); Agence France Press 11/08/2006 (AFPR000020061108e2b8002er); Reuters 11/09/2006 (LBA0000020061109e2b9003ci)		tb																																																	
+
+Associated Press 2 March 2008 (APRS000020080302e4320006y)		tb																																																			
+
+
+
+
+
+
+
+
+
+
+	1	1995	#VALUE!	99	99	9999	0	KEN	Rift Valley	Longonot Escarpment	Kwakigecha Farm	0	50	0	South	36	24	0	East			"Non-State, Internal, No State Sanction"					Masai Tribesmen						Kikuyu Tribe					10	May-24			Attack/Massacre	Unclear/Other	No	Yes	No	No	No	No	No	No	No	No
+
+
+
+
+	9	1995	#VALUE!	99	99	9999	0	KHM	Siem Reap and Kompong Thom	Chikreng	Tonle Sap Lake	13	0	0	North	104	0	0	East			"Non-State, Internal, No State Sanction"				Khmer Rouge							"17 Cambodians, 11 Vietnamese"					28	25-49			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	2	2005	#VALUE!	3	4	2006	38810	LBN														Unknown/Unclear/Other									unclear		"""Syrian workers"""					40	25-49			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+	Agence France Presse 07/15/2006 (AFPR000020060715e27f0066b); Agence France Presse 07/15/2006 (AFPR000020060715e27f005wz)																																																				
+
+	7	2006	#VALUE!	99	99	9999	0	LBN														Transnational	Israeli military										Brazilian citizens in Lebanon					7	May-24			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+
+
+
+		"Reuters 08/02/2006 (LBA0000020060802e2820007l), Associated Press 08/02/2006 (APRS000020060802e282000lr), Agence France Press 08/02/2006 (AFPR000020060802e282002gx)"		tb																																																	
+"Agence France Presse, Reuters"	Local	"Mohammad Rashed, Israeli army spokeswoman"			"Agence France Presse 08/04/2006 (AFPR000020060804e284002yz), Reuters 08/04/2006 (LBA0000020060804e284001ot)"		tb																																														
+
+
+		"Agence France Presse 08/06/2006 (AFPR000020060806e286002jp), Associated Press 08/06/2006 (APRS000020060806e286000nv)"		tb																																																	
+
+
+		"Agence France Presse 08/07/2006 (AFPR000020060807e287003l9), Associated Press 08/07/2006 (APRS000020060807e287001ba)"		tb																																																	
+
+"Reuters 08/07/2006 (LBA0000020060807e287001i7), Reuters 08/07/2006 (LBA0000020060807e287000v4)"		tb																																																			
+
+
+		"Associated Press 08/07/2006 (APRS000020060807e287001z0), Reuters 08/07/2006 (LBA0000020060807e287001rd), Agence France Presse 08/07/2006 (AFPR000020060807e287004bo), Agence France Presse 08/08/2006 (AFPR000020060808e2880044u)"		tb																																																	
+
+		"Reuters 08/07/2006 (LBA0000020060807e2870004t), Agence France Presse 08/07/2006 (AFPR000020060807e287003m1)"		tb																																																	
+
+		"Agence France Presse 08/08/2006 (AFPR000020060808e288003t5), Reuters 08/08/200 (LBA0000020060808e288001ky)"		tb																																																	
+
+		"Agence France Presse 08/09/2006 (AFPR000020060809e289001rx), Reuters 08/09/2006 (LBA0000020060809e289000a9)"		tb																																																	
+
+
+
+		"Agence France Press 08/11/2006 (AFPR000020060811e28b004k0), Associated Press 08/11/2006 (APRS000020060811e28b000e5), Reuters 08/11/2006 (LBA0000020060811e28b0010q), Agence France Presse 08/11/2006 (AFPR000020060812e28c004v7)"		tb																																																	
+
+
+
+
+
+
+
+
+		Associated Press 06/13/2007 (APRS000020070613e36d009q7); Reuters 06/14/2007 (LBA0000020070614e36e00140)		tb																																																	
+
+	4	2001	#VALUE!	31	7	2001	37103	LBR	Northern													State Perpetrator	Yes									Yes					Random/Unknown/Unclear/Other	200	100-999			Attack/Massacre	Unclear/Other	No	No	No	Yes	No	Yes	No	No	No	torture
+	4	2001	#VALUE!	31	7	2001	37103	LBR	Northern													"Non-State, Internal, No State Sanction"				Yes						Yes						No Information	No Information			Attack/Massacre	Unclear/Other	No	No	No	Yes	No	Yes	No	No	No	No
+	4	2003	#VALUE!	99	99	9999	0	LBR			"Yubor, River Gbeh, Tuobo Gbaweleken"	5	4	34	North	7	33	47	East			State Perpetrator	Yes										Yes					369	100-999			Attack/Massacre	Firearms	No	No	No	No	No	Yes	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+AFP: 5/17/2000 (afpr000020010803dw5h01zbx)		abh																																																			
+
+
+
+
+
+
+
+
+
+
+
+
+
+AP: 06/26/2000 (aprs000020010803dw6q0d94z)	"Rebels claim 10 crewmembers dead plus 6 of their own suicide bombers, Sri Lankan Navy officials (rescue) claim only 7 of the supply boat's crewmembers unaccounted for."	abh																																																			
+
+Agence France-Presse	Local	Local police			AFP: 10/05/2000 (afpr000020010803dwa5044ug)		abh																																														
+	10	2000	#VALUE!	99	99	9999	0	LKA			Bandarawela	6	50	13	North	80	59	8	East			"Non-State, Internal, No State Sanction"									"""villagers"""		"""former Tamil child soldiers"""			"""former Tamil child soldiers"""		28	25-49			Riot/Pogrom	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agence France Presse 	Local	Sri Lankan military			09 February 2009 AFPR000020090209e529006l4		AI																																														
+
+
+
+		1995	#VALUE!			1997	#VALUE!	MEX														"Non-State, Internal, State Sanction"				"""Albino Torres, a former soldier, is a leading figure in the group known as Peace and Justice, created in 1995 to confront the revolt of the leftist Zapatista National Liberation Army"""						"""Zapatista sympathizers"""						6	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+		2000	#VALUE!	21	6	2005	38524	MEX														Unknown/Unclear/Other									unclear		"""Mexican journalists"""		"""Mexican journalists"""			16	May-24			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	Yes	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuters	Local	Police Sources			LBA0000020081107e4b7002fj		ELH																																														
+Agence France Press	Local	Police Sources			AFPR000020081107e4b70005l		ELH																																														
+		1998	#VALUE!		8	2002	#VALUE!	NGA	Southeast		Onitsha											"Non-State, Internal, State Sanction"				Yes											Random/Unknown/Unclear/Other	1000	"1,000-9,999"			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	torture
+
+
+Reuters and Agence France Presse					14.02.2004  LBA0000020040214e02e00and  16.02.2004  AFPR000020040216e02g000pq	"The perpetrators fall into both the ethnic and religious category because they are described as a tribal militia group from Christian tribe that has been involved in ongoing conflict with Muslims.  The same is true for the victims, who were villagers and Muslims.  The report quotes various sources with differing death counts, but eye-witnesses claim that eleven were killed, so that was the number that I recorded.  The perpetrators used scorched earth tactics when they burned ""tens of houses"" to the ground."	AI																																														
+	2	2004	#VALUE!	26	3	2004	38072	NGA	Plateau State		"Wase, Yelwa and Gerkawa"	9	6	0	North	9	58	0	East			"Non-State, Internal, No State Sanction"					Yes	Yes					Yes	Yes				220	100-999			Attack/Massacre	Unclear/Other	No	Yes	No	No	No	No	No	No	No	No
+	10	2004	#VALUE!	99	99	9999	0	NGA			Kaduna	10	25	36	North	7	51	12	East			State Perpetrator		"""police"""													Random/Unknown/Unclear/Other	12	May-24			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	6	2008	#VALUE!	5	7	2008	39634	NGA	Ebonyi	Ishielu		6	15	0	North	8	5	0	East			"Non-State, Internal, No State Sanction"					Ezillo and Ezza										People	14	May-24	No Information	No Information	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+	2	1996	#VALUE!	15	9	2000	36784	NPL														Multiple Perpetrators (State And Non-State)		Nepali police		Maoist rebels											civilians	249	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	Yes	No	forcible use of child soldiers
+	6	2000	#VALUE!	99	99	9999	0	NPL		Jajarkot	Panchkatiya	28	50	0	North	82	15	0	East			"Non-State, Internal, No State Sanction"				Maoist rebels											civilians	7	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+Reuters: 01/17/2000 (lba0000020010820dw1h04t6d)	"Pakistan blamed ""foreign hand,"" usually meaning India, but unsubstantiated.  A similar blast occurred two weeks previously in Hyderabad.  Injuries coded as 25, as report said, ""more than two dozen injured."""	abh																																																			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agence France-Presse	Local	Local Police			AFP: 07/16/2000 (afpr000020010803dw7g02uzo)		abh																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agence France-Presse	Local	Local police			AFP: 07/30/2004 (AFPR000020040730e07u007y8)		abh																																														
+
+
+
+Reuters	Local	Local Hospital and Witnesses			Reuters: 12/10/2004 (LBA0000020041210e0ca006mx); Reuters 12/10/2004 (LBA0000020041210e0ca006ps); AFP: 12/10/2004 (AFPR000020041210e0ca00bkr); AFP: 12/10/2004 (AFPR000020041210e0ca00bvw); AFP: 12/10/2004 (AFPR000020041210e0ca00ffn); AP: 12/11/2004 (APRS000020041211e0cb00033)		abh																																														
+
+
+Associated Press	Local	Local police			AP: 12/11/2004 (APRS000020041211e0cb00565)	Deaths occurred due to a land dispute	abh																																														
+Agence France-Presse	Local	Local police			AFP: 01/08/2005 (AFPR000020050108e11800ahz); AP: 01/08/2005 (APRS000020050108e11800f25); AP: 01/09/2005 (APRS000020050109e1190008v)		abh																																														
+
+Associated Press	Local	Local police			AP: 3/21/2005 (APRS000020050321e13l003f9); AFP: 3/21/2005 (AFPR000020050321e13l008q8)	"Report indicated it was unclear who hit temple, as it was caught in the crossfire. Coded perpetrator as ""unclear"" since it was not known if it was Bugti tribesman or security forces whose fire actually caused deaths.  Updated deaths to 18 and injuries to 34 based on AFP report.  Injury count also included armed combatants, but no other figures were available."	abh																																														
+Agence France Presse 	Local	Police			19 August 2008 AFPR000020080819e48j004fm		AI																																														
+
+
+
+
+
+
+
+
+
+
+Reuters					04 April 1995        Reuters news    lba0000020011103dr4408wod    and    03 April 1996     Reuters news   lba0000020011018ds4309pxy	"It was unclear who did most of the killings of the civilians, but since the report said most were killed in cross fire I used both the military and the rebel troops as the perpetrators.  The government officials said the attackers were either members of the Moro National Liberation Front of Abu Sayyaf."	LRP																																														
+
+	9	1998	#VALUE!	99	99	9999	0	POL	south-west		Jelenia Gora	50	54	3	North	15	43	31	East			"Non-State, Internal, No State Sanction"							"""organized crime killing"""								Random/Unknown/Unclear/Other	5	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+	12	1996	#VALUE!	99	99	9999	0	RWA			Taba	1	56	47	South	29	53	56	East			"Non-State, Internal, No State Sanction"					former members of Hutu militias										Random/Unknown/Unclear/Other	15	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	1	1997	#VALUE!	99	99	9999	0	RWA	southeastern	Rusumo		2	16	23	South	30	42	33	East			"Non-State, Internal, No State Sanction"									local people		returnee Hutu refugees					31	25-49			Unclear/Other	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+	7	1997	#VALUE!		8	1997	#VALUE!	RWA														Multiple Perpetrators (State And Non-State)	"security forces including Rwandese Patriotic Army, gendarmerie & communal police"	"security forces including Rwandese Patriotic Army, gendarmerie & communal police"						"ex-Rwandese Armed Forces, Interahamwe militia"							Random/Unknown/Unclear/Other	918	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	8	1997	#VALUE!	99	99	9999	0	RWA	Gisenyi province		Mundende	1	37	0	South	29	23	0	East			Unknown/Unclear/Other									Unknown/Unclear/Other		Congolese Tutsis					131	100-999	99	50-99	Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	11	1997	#VALUE!	99	99	9999	0	RWA			Gatonde	1	39	15	South	29	40	10	East			State Perpetrator	Rwandan Patriotic Army (RPA)														Random/Unknown/Unclear/Other	300	100-999			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	11	1997	#VALUE!	99	99	9999	0	RWA			Jenda	2	10	0	South	29	57	0	East			State Perpetrator	Rwandan Patriotic Army (RPA)														civilians	539	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	11	1997	#VALUE!	99	99	9999	0	RWA			Gashyusha											State Perpetrator	Rwandan Patriotic Army (RPA)														Random/Unknown/Unclear/Other	150	100-999			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+Agence France-Presse	Local 	Local Military Officials			AFP: 12/24/1999 (afpr000020010825dvco049zl); Reuters: 12/24/1999 (lba0000020010908dvco07pad)		abh																																														
+
+
+
+
+
+
+
+	5	1998	#VALUE!		5	1998	#VALUE!	SCG	Kosovo		"Decani, Djakovica"	42	35	0	North	21	0	0	East			State Perpetrator	Serb security forces														Random/Unknown/Unclear/Other	130	100-999			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+	7	1998	#VALUE!	99	99	9999	0	SCG	Kosovo		Orahovac	42	23	58	North	20	39	17	East			Unknown/Unclear/Other									Unknown/Unclear/Other						Random/Unknown/Unclear/Other	500	100-999			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	Other (mass graves)
+		1998	#VALUE!	99	99	9999	0	SCG	Kosovo		Golubovac	42	35	0	North	21	0	0	East			State Perpetrator	Serb troops										ethnic Albanians					14	May-24	1	1-Apr	Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	Yes - beatings
+	4	1999	#VALUE!	99	99	9999	0	SCG	Montenegro			42	30	0	North	19	18	0	East			State Perpetrator	Yugoslav Army										ethnic Albanians					6	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	5	1999	#VALUE!	99	99	9999	0	SCG	Kosovo	Drenica		42	35	0	North	21	0	0	East			State Perpetrator	Serbian troops										"30 Kosovo Albanians, 150 civilians"				"30 Kosovo Albanians, 150 civilians"	180	100-999			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	Yes - torture
+		1999	#VALUE!	99	99	9999	0	SCG	Kosovo		Podujevo	42	54	38	North	21	11	35	East			State Perpetrator	Serb forces										ethnic Albanians					19	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+	9	1996	#VALUE!	99	99	9999	0	SDN	Northern	al-Daien province	al-Mustorat											"Non-State, Internal, No State Sanction"					Reizegat tribesmen						Zagawa tribals					12	May-24			Attack/Massacre	Unclear/Other	No	Yes	No	No	No	No	No	No	No	No
+	6	1997	#VALUE!	99	99	9999	0	SDN	Bahr el-Ghazal province		Wunrop	8	0	0	North	28	0	0	East			"Non-State, Internal, No State Sanction"								forces of rebel leader John Garang							Random/Unknown/Unclear/Other	142	100-999			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	Yes - torture
+
+
+
+
+
+	5	2002	#VALUE!	99	99	9999	0	SDN	Unity State			9	30	0	North	30	0	0	East			"Non-State, Internal, No State Sanction"				Sudan People's Liberation Army (SPLA)									herders			25	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	2	2003	#VALUE!	8	9	2004	38238	SDN	Darfur region			13	0	0	North	25	0	0	East			Multiple Perpetrators (State And Non-State)	Government forces			"anti-government rebels, militias"	Sudan's proxy Arab militia (Janjaweed)						People in the Darfur region					50000	"10,000+"			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+	5	2004	#VALUE!		5	2004	#VALUE!	SDN	Northern		Akobo	7	47	0	North	33	1	0	East			Multiple Perpetrators (State And Non-State)	Sudanese government forces		Khartoum-backed militias	Sudan People's Liberation Army											civilians	204	100-999			Unclear/Other	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+	4	2005	#VALUE!	29	5	2005	38501	SDN	Gutum		Yirol	6	33	24	North	30	30	13	East			"Non-State, Internal, No State Sanction"					Tribes										Other	75	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	11	2006	#VALUE!	99	99	9999	0	SDN	North Darfur		Madu	14	36	0	North	26	1	0	East			Multiple Perpetrators (State and Non-State)	Sudanese soldiers				Janjaweed										Random/Unknown/Unclear/Other	6	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+Reuters	Local	Senior member of the Rizeigat tribe	Local	Senior member of the Misseriva tribe	21 August 2008 LBA0000020080821e48l0024g		AI																																														
+
+Agence France Presse	Local	Military Sources			12 December 2008 AFPR000020081212e4cc005o0		ELH																																														
+
+	6	1995	#VALUE!	99	99	9999	0	SLE			Romendi											"Non-State, Internal, No State Sanction"				RUF rebels							Lebanese family					11	May-24			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+Reuters					01.12.1995 lba0000020011103drc101655		AI																																														
+	4	1998	#VALUE!	18	12	1998	36147	SLE														"Non-State, Internal, No State Sanction"				RUF rebels											Random/Unknown/Unclear/Other	4000	"1,000-9,999"			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+21.04.1999 lba0000020010908dv4l02kje  22.04.1999 lba0000020010908dv4m02gr5	Allegations abound and independent confirmation of who the perpetrators are remains unavailable.	AI																																																			
+	9	2000	#VALUE!		5	2001	#VALUE!	SLE	Northeastern	Kambia district		9	10	0	North	12	45	0	West			Transnational	Guinean Troops										Sierra Leoneans					Dozens	50-99			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+	9	2000	#VALUE!		5	2001	#VALUE!	SLE														"Non-State, Internal, No State Sanction"				RUF rebels											civilians	No Information	No Information			Attack/Massacre	Unclear/Other	No	Yes	No	No	No	No	No	Yes	No	No
+		2000	#VALUE!	99	99	9999	0	SLE			Rogberi Junction	8	50	0	North	12	5	0	West			Unknown/Unclear/Other									Unknown/Unclear/Other						Random/Unknown/Unclear/Other	8	May-24			Unclear/Other	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
+	1	2001	#VALUE!	29	7	2001	37101	SLE	"The Junction of the Borders of Guinea, Liberia and Sierra Leone"													"Non-State, Internal, No State Sanction"				Yes							Yes					11	May-24	55	50-99	Unclear/Other	Unclear/Other	No	No	No	Yes	No	Yes	No	Yes	No	harsh treatment
+	7	1996	#VALUE!	24	7	1996	35270	SOM			Mogadishu	2	2	28	North	45	20	38	East			Unknown/Unclear/Other									Unclear						Random	112	100-999			Attack/Massacre	Heavy Weapons	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+Garowe Online	Local	witnesses			09 August 2007; AFP20070809301004	This event is the result of a supplemental search utilizing Open Source Center.	TAP																																														
+
+
+
+Agence France Presse	Local	Witnesses			13 December 2008 AFPR000020081213e4cd006bu		ELH																																														
+
+	10	1997	#VALUE!	99	99	9999	0	TCD			Moundou	8	33	0	North	16	5	35	East			State Perpetrator	army														civilians	52	50-99			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	11	1997	#VALUE!	99	99	9999	0	TCD														"Non-State, Internal, No State Sanction"								Armed Forces for the Federal Republic (FARF) of Laoukein Barde Frisson							traders	7	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+	12	2005	#VALUE!	5	2	2006	38753	TCD														Transnational					Chadian and Sudanese militias						Chadian civilians					18	May-24			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+	6	1998	#VALUE!	99	99	9999	0	TGO														State Perpetrator	Togolese Security Forces									Opposition political parties						Hundreds	100-999			Attack/Massacre	Unclear/Other	No	No	No	Yes	No	No	No	Yes	No	torture
+		1992	#VALUE!			1996	#VALUE!	TUR														"Non-State, Internal, State Sanction"							hit squads of fugitive gangsters			political opponents including Kurdish rebel sympathizers and business rivals						1300	"1,000-9,999"			Attack/Massacre	Unclear/Other	No	No	No	No	Yes	No	No	No	No	No
+
+
+
+
+
+
+		"Reuters 09/12/2006 (LBA0000020060912e29c001qq), Agence France Presse 09/13/2006 (AFPR000020060913e29d0030q), Agence France Presse 09/13/2006 (AFPR000020060913e29d0034m), Agence Franc Presse 09/13/2006 (AFPR000020060913e29d003c4)"	The identity of the perpetrator was not definitively established.	tb																																																	
+
+
+		1995	#VALUE!			1995	#VALUE!	TZA														Transnational	Burundian Army										Tanzanians					No Information	No Information			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+	6	1997	#VALUE!	99	99	9999	0	UGA			Bundibugyo	0	42	54	North	30	3	14	East			"Non-State, Internal, No State Sanction"								Allied Democratic Forces (ADF) rebels							civilians	40	25-49			Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		2001	#VALUE!	20	1	2002	37276	VEN	199 miles South of Caracas	Portuguesa state		10	30	0	North	66	55	0	West	320	180	"Non-State, Internal, No State Sanction"				Yes											Yes	15	May-24			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+	6	1998	#VALUE!		7	1998	#VALUE!	YEM	Marib province													Unknown/Unclear/Other									Unknown/Unclear/Other				Protesters against the rise in the price of fuel and basic foodstuffs			34	25-49	102	100-999	Attack/Massacre	Unclear/Other	No	No	No	No	No	No	No	No	No	No
+
+
+
+
+
+
+Associated Press 2 May 2008 (APRS000020080502e452002gy)	It is unclear who was the perpetrator; both sides blamed each other.	tb																																																			
+	5	1997	#VALUE!	9	10	1997	35712	ZAF	KwaZulu-Natal			29	0	0	South	30	0	0	East			Unknown/Unclear/Other									Unknown/Unclear/Other						Random/Unknown/Unclear/Other	41	25-49			Attack/Massacre	Firearms	No	No	No	No	No	No	No	No	No	No
+12	6	1996	35228	99	99	9999	0		North Pacific													Unknown/Unclear/Other					Chinese fishermen						Taiwanese crew					5	May-24			Attack/Massacre	Primitive Weapons	No	No	No	No	No	No	No	No	No	No
